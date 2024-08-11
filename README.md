@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ganza Chael</h1>
 <h3 align="center">A passionate full Stack web developer and Cyber Security engineer</h3>
-<img alt="coding" width="50%" src="https://i.pinimg.com/564x/59/7d/6a/597d6ab5977fd9edaa6701eec2c1be42.jpg">
+<img alt="coding" width="100%" src="https://i.pinimg.com/564x/59/7d/6a/597d6ab5977fd9edaa6701eec2c1be42.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chael250&label=Profile%20views&color=0e75b6&style=flat" alt="chael250" /> </p>
 
