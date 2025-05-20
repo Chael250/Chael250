@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chael250" alt="chael250" /></a> </p>
 
-- 🌱 I’m currently learning **Nest JS and Python**
+- 🌱 I’m currently learning **RETURN-ORIENTED-PROGRAMMING**
 
-- 💬 Ask me about **Node js, React js and Typescript**
+- 💬 Ask me about **PYTHON3 PWN-TOOLS BUFFER-OVERFLOWS**
 
 - 📫 How to reach me **ganzac784@gmail.com**
 
