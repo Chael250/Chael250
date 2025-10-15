@@ -1,4 +1,4 @@
-# Welcome to AnonKryptiQuz's GitHub!
+# Welcome to GANZA Chael's GitHub!
 
 I am **Chael**, a passionate hacker and cybersecurity enthusiast. I specialize in uncovering vulnerabilities, crafting innovative exploits, and dissecting systems to expose their deepest flaws. I thrive on the challenge of peeling back layers of security to reveal what others cannot see.
 
