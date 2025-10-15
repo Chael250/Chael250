@@ -1,26 +1,27 @@
-# 💫 About Me:
-👋 Hey there, I’m GANZA Chael<br><br>🚀 **Mobile Developer** | ⚙️ **Backend Engineer** | 🧠 **Cybersecurity Enthusiast**
+# Welcome to AnonKryptiQuz's GitHub!
 
-
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ganzac784@gmail.com) 
-
-# 💻 Tech Stack:
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Chael250&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Chael250&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Chael250&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Chael250&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+I am **Chael**, a passionate hacker and cybersecurity enthusiast. I specialize in uncovering vulnerabilities, crafting innovative exploits, and dissecting systems to expose their deepest flaws. I thrive on the challenge of peeling back layers of security to reveal what others cannot see.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Chael250&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🔧 What I Do
+- **Uncover vulnerabilities** in systems and applications to expose their deepest flaws and weaknesses.
+- **Craft innovative exploits** to challenge existing security measures and test system resilience.
+- **Dissect and analyze systems** to identify hidden flaws, revealing what others cannot see.
+- **Explore the delicate balance of power** in the digital domain by challenging the systems that claim to be unbreakable.
+- **Engaging in hands-on hacking** in my spare time to push my limits and refine my skills.
+- **Build and utilize custom tools** to enhance my hacking capabilities, but I don’t identify as a developer. Hacking is my true craft.
+
+---
+
+Together, we strive to push boundaries, share knowledge, and inspire the cybersecurity community.
+
+---
+
+## 📫 **Connect in the Shadows**
+
+---
+
+> **Disclaimer**: All tools and projects are strictly for **educational purposes** and **security testing** with proper authorization. Misuse is strictly discouraged. Stay ethical!
 
 
