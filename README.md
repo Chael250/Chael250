@@ -1,34 +1,27 @@
-# Welcome to Chael's GitHub!
+<h1 align="center">Hi 👋, I'm Chael</h1>
+<h3 align="center">Full Stack Developer • Bug Bounty Hunter • Security-First Builder 🐛🔐</h3>
 
-I am **GANZA Chael**, a passionate hacker and cybersecurity enthusiast. I specialize in uncovering vulnerabilities, crafting innovative exploits, and dissecting systems to expose their deepest flaws. I thrive on the challenge of peeling back layers of security to reveal what others cannot see.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chael250" alt="chael250" /></a> </p>
 
-I explore the delicate balance of power within the digital domain, relentlessly challenging systems that claim to be unbreakable. My work is disruptive, precise, and unwavering. In the silence of the night, I push boundaries, sharpen my skills, evolve my craft, and leave only whispers of a system's collapse in my wake.
+- 🔭 I’m currently working on **real-estate**
 
----
+- 🌱 I’m currently learning **Machine Learning**
 
-## 🔧 What I Do
-- **Uncover vulnerabilities** in systems and applications to expose their deepest flaws and weaknesses.
-- **Craft innovative exploits** to challenge existing security measures and test system resilience.
-- **Dissect and analyze systems** to identify hidden flaws, revealing what others cannot see.
-- **Explore the delicate balance of power** in the digital domain by challenging the systems that claim to be unbreakable.
-- **Engaging in hands-on hacking** in my spare time to push my limits and refine my skills.
-- **Build and utilize custom tools** to enhance my hacking capabilities, but I don’t identify as a developer. Hacking is my true craft.
+- 👨‍💻 All of my projects are available at [chael.vercel.app](chael.vercel.app)
 
----
+- 💬 Ask me about **Full-stack development**
 
-Together, we strive to push boundaries, share knowledge, and inspire the cybersecurity community.
+- 📫 How to reach me **ganzac784@gmail.com**
 
----
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/chael784" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chael784" height="30" width="40" /></a>
+</p>
 
-## 📫 **Connect in the Shadows**
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-- **X (formerly Twitter):** [chaelganza](https://x.com/@chaelganza)  
-(*Hack smart and remain in the shadows.*)
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chael250&show_icons=true&locale=en&layout=compact" alt="chael250" /></p>
 
----
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chael250&" alt="chael250" /></p>
 
-> **Disclaimer**: All tools and projects are strictly for **educational purposes** and **security testing** with proper authorization. Misuse is strictly discouraged. Stay ethical!
-
-
-
-x
